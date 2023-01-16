@@ -50,6 +50,9 @@ Warning ! .. this is brief Explanation for what we did and worked on , as a read
 <!-- TOC -->
 <h4>We used with this program fast dataStructers in searcing , adding , getting and editing data </h4>
 
+***Important ::: note that the admin userId->1111 and the password->admin
+
+
 * [📑 We have two Interfaces one for users and one for Admin and  ofcourse the login/Singup interface.](#-)
 
 * [💻 We used slideBars for swtiching between panes with cool methods. ](#-)

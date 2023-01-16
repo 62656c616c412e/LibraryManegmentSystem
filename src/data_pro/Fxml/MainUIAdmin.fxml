@@ -16,23 +16,23 @@
          <children>
             <Button mnemonicParsing="false" onMouseClicked="#Home" prefHeight="85.0" prefWidth="199.0" style="-fx-background-color: #4774B3;" text="Home" textFill="#faeeee">
                <font>
-                  <Font name="SansSerif Bold Italic" size="15.0" />
+                  <Font name="SansSerif Bold" size="15.0" />
                </font></Button>
             <Button mnemonicParsing="false" onMouseClicked="#Users" prefHeight="85.0" prefWidth="199.0" style="-fx-background-color: #4774B3;" text="Users" textFill="#faeeee">
                <font>
-                  <Font name="SansSerif Bold Italic" size="15.0" />
+                  <Font name="SansSerif Bold" size="15.0" />
                </font></Button>
             <Button mnemonicParsing="false" onMouseClicked="#AddBook" prefHeight="85.0" prefWidth="199.0" style="-fx-background-color: #4774B3;" text="Add Book" textFill="#faeeee">
                <font>
-                  <Font name="SansSerif Bold Italic" size="15.0" />
+                  <Font name="SansSerif Bold" size="15.0" />
                </font></Button>
             <Button mnemonicParsing="false" onMouseClicked="#AddUser" prefHeight="85.0" prefWidth="199.0" style="-fx-background-color: #4774B3;" text="Add User" textFill="#faeeee">
                <font>
-                  <Font name="SansSerif Bold Italic" size="15.0" />
+                  <Font name="SansSerif Bold" size="15.0" />
                </font></Button>
             <Button mnemonicParsing="false" onMouseClicked="#LogOut" prefHeight="84.0" prefWidth="199.0" style="-fx-background-color: #4774B3;" text="Log out" textFill="#faeeee">
                <font>
-                  <Font name="SansSerif Bold Italic" size="15.0" />
+                  <Font name="SansSerif Bold" size="15.0" />
                </font></Button>
          </children>
       </VBox>

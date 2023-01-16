@@ -60,7 +60,7 @@ public class MainUILoginSignup {
             scene = new Scene(root);
             stage.setScene(scene);
             stage.show();
-        }else if (Integer.parseInt(textfield_id_welcome.getText())==1 && textfield_pass_welcome.getText().equals(1 + "" )){
+        }else if (Integer.parseInt(textfield_id_welcome.getText())==1111 && textfield_pass_welcome.getText().equals("admin" + "" )){
             Parent root = FXMLLoader.load(Objects.requireNonNull(getClass().getResource("Fxml/MainUIAdmin.fxml")));
             stage = (Stage)((Node)event.getSource()).getScene().getWindow();
             scene = new Scene(root);

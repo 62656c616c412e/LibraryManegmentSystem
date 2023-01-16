@@ -18,7 +18,7 @@ publisher      -> The Russian Messenger
 total_pages    -> 864
 rating         -> 3.5
 published_date -> 1/1/1878
-quantity       -> 19
+quantity       -> 17
 
 33225
 title          -> Invisible Man
@@ -28,7 +28,7 @@ publisher      -> Random House
 total_pages    -> 581
 rating         -> 4.5
 published_date -> 14/4/1952
-quantity       -> 1
+quantity       -> 0
 
 55896
 title          -> Beloved
@@ -38,7 +38,7 @@ publisher      -> Alfred A. Knopf Inc.
 total_pages    -> 324
 rating         -> 4.8
 published_date -> 8/9/1987
-quantity       -> 14
+quantity       -> 13
 
 73343
 title          -> Rich Dad Poor Dad

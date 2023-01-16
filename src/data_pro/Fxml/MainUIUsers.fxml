@@ -17,15 +17,15 @@
             <children>
                 <Button mnemonicParsing="false" onMouseClicked="#Home" prefHeight="90.0" prefWidth="152.0" style="-fx-background-color: #4774B3;" text="Home" textFill="WHITE">
                <font>
-                  <Font name="SansSerif Bold Italic" size="16.0" />
+                  <Font name="SansSerif Bold" size="16.0" />
                </font></Button>
                 <Button mnemonicParsing="false" onMouseClicked="#myLibrary" prefHeight="88.0" prefWidth="152.0" style="-fx-background-color: #4774B3;" text="My Library" textFill="WHITE">
                <font>
-                  <Font name="SansSerif Bold Italic" size="16.0" />
+                  <Font name="SansSerif Bold" size="16.0" />
                </font></Button>
                 <Button mnemonicParsing="false" onMouseClicked="#LogOut" prefHeight="86.0" prefWidth="152.0" style="-fx-background-color: #4774B3;" text="Log out" textFill="WHITE">
                <font>
-                  <Font name="SansSerif Bold Italic" size="16.0" />
+                  <Font name="SansSerif Bold" size="16.0" />
                </font></Button>
             <Pane prefHeight="197.0" prefWidth="110.0" style="-fx-background-color: #4774B3;">
                <children>

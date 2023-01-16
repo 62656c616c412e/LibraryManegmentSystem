@@ -8,29 +8,29 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="data_pro.PaneAddUserOrBook">
+<AnchorPane id="AnchorPane" prefHeight="440.0" prefWidth="666.0" style="-fx-background-color: #dcdcdc;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="data_pro.PaneAddUserOrBook">
     <children>
-        <Pane layoutX="74.0" layoutY="43.0" prefHeight="427.0" prefWidth="653.0">
+        <Pane prefHeight="440.0" prefWidth="700.0" style="-fx-background-color: #dcdcdc;">
             <children>
-                <Label fx:id="Create" layoutX="26.0" layoutY="20.0" prefHeight="33.0" prefWidth="149.0" text="Add New Student" textAlignment="CENTER">
+                <Label fx:id="Create" layoutX="52.0" layoutY="36.0" prefHeight="33.0" prefWidth="218.0" text="Add New Student" textAlignment="CENTER" textFill="#163a66">
                     <font>
-                        <Font size="17.0" />
+                        <Font name="SansSerif Bold" size="19.0" />
                     </font>
                 </Label>
-                <TextField fx:id="Textsecond_create" focusTraversable="false" layoutX="327.0" layoutY="128.0" prefHeight="26.0" prefWidth="182.0" promptText="last name" />
-                <TextField fx:id="Textgmail_create" focusTraversable="false" layoutX="77.0" layoutY="128.0" prefHeight="25.0" prefWidth="182.0" promptText="username@gmail.com" />
-                <Button fx:id="save_create" layoutX="55.0" layoutY="295.0" mnemonicParsing="false" onAction="#addNewUser" prefHeight="39.0" prefWidth="113.0" text="save data">
+                <TextField fx:id="Textsecond_create" focusTraversable="false" layoutX="348.0" layoutY="152.0" prefHeight="40.0" prefWidth="212.0" promptText="last name" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: #4774B3; -fx-background-color: #dcdcdc;" />
+                <TextField fx:id="Textgmail_create" focusTraversable="false" layoutX="98.0" layoutY="152.0" prefHeight="40.0" prefWidth="212.0" promptText="username@gmail.com" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: #4774B3; -fx-background-color: #dcdcdc;" />
+                <Button fx:id="save_create" layoutX="136.0" layoutY="319.0" mnemonicParsing="false" onAction="#addNewUser" prefHeight="47.0" prefWidth="212.0" style="-fx-background-color: #bad0ec;" text="save data" textFill="#07326e">
                     <font>
-                        <Font size="18.0" />
+                        <Font name="SansSerif Bold" size="23.0" />
                     </font>
                 </Button>
-                <TextField fx:id="Textfirst_create" focusTraversable="false" layoutX="327.0" layoutY="64.0" prefHeight="26.0" prefWidth="182.0" promptText="first name" />
-                <TextField fx:id="Textage_create" focusTraversable="false" layoutX="327.0" layoutY="188.0" prefHeight="26.0" prefWidth="182.0" promptText="age" />
-                <TextField fx:id="textfield_id_create" focusTraversable="false" layoutX="77.0" layoutY="64.0" prefHeight="26.0" prefWidth="182.0" promptText="123456" />
-                <PasswordField fx:id="Textpass_create" focusTraversable="false" layoutX="77.0" layoutY="188.0" prefHeight="26.0" prefWidth="182.0" promptText="new password" />
-                <Label fx:id="print_create" layoutX="112.0" layoutY="246.0" prefHeight="26.0" prefWidth="338.0" text="meesage" textAlignment="CENTER">
+                <TextField fx:id="Textfirst_create" focusTraversable="false" layoutX="348.0" layoutY="88.0" prefHeight="40.0" prefWidth="212.0" promptText="first name" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: #4774B3; -fx-background-color: #dcdcdc;" />
+                <TextField fx:id="Textage_create" focusTraversable="false" layoutX="348.0" layoutY="212.0" prefHeight="40.0" prefWidth="212.0" promptText="age" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: #4774B3; -fx-background-color: #dcdcdc;" />
+                <TextField fx:id="textfield_id_create" focusTraversable="false" layoutX="98.0" layoutY="88.0" prefHeight="40.0" prefWidth="212.0" promptText="123456" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: #4774B3; -fx-background-color: #dcdcdc;" />
+                <PasswordField fx:id="Textpass_create" focusTraversable="false" layoutX="98.0" layoutY="212.0" prefHeight="40.0" prefWidth="212.0" promptText="new password" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: #4774B3; -fx-background-color: #dcdcdc;" />
+                <Label fx:id="print_create" layoutX="191.0" layoutY="275.0" prefHeight="26.0" prefWidth="269.0" textAlignment="CENTER" textFill="#1c61c1">
                     <font>
-                        <Font size="17.0" />
+                        <Font size="15.0" />
                     </font>
                 </Label>
             </children>
