@@ -1,6 +1,6 @@
 <h1 align="center">Library Management System</h1>
 <h3 align="center"> This Project is part of Days and Days of work 
-even though is not in it's last version yet but we Done 100% of the Back End work and most of the styling, and Inshallah in the project Discussion will be in its most modern, stylesh, stable version.<span>written with all❤ <h5>Belal Thabet</h5> <span> </h3>
+even though is not in it's last version yet but we Done 100% of the Back End work and most of the styling, and Inshallah in the project Discussion will be in its most modern, stylesh, stable version.<span>written with all❤             <h5>                 Belal   </h5>     <span> </h3>
 <h1></h1>
 
   
@@ -76,32 +76,14 @@ We split the work between us Eng.Baraa  take most of main interfaces and the boo
 And I Eng.Belal was working on the Search algorithms and tableViews details and the ui/ux styling and displaying the content of the right side panels and editing them.
 
 should we mention that we used Git with our work, github make it easy to code without even see each oter it was really game changing and alot of skills we learnt in this chapter of out lifes.
-to see the public Github repository [gitHub]()
+to see the public Github repository [gitHub](https://github.com/62656c616c412e/LibraryManegmentSystem)
 
+Best regards 
 
+Belal A. Thabet 120203079 belalth4real@gmail.com
 
-# 🛠 Enhancements
+Baraa M. Shaat  120200652 baraashaat144@gmail.com
 
-Next steps:
-
-# 📫 Contributing to Project
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-To contributing to project, follow these steps:
-
-1. Fork this repository.
-2. Creates a branch: `git checkout -b <branch_name>`.
-3. Do your changes and commit: `git commit -m '<commit_message>'`
-4. Send a branch to origin: `git push origin DashboardFx / <local>`
-5. Creates pull request.
-
-However, if you don't know [How to create a pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-# 😄 Be a contritubutor<br>
-
-🤖I really need more friends.. Send me a  <a href='mailto:gleidisonmt@gmail.com?subject=Hi, I see you need my help!.. I am here.'> email <a/>.
-
-# 📝 License
-
-This project is under license. See the file [LICENSE](LICENSE.md) to more details.
-
-[⬆ Back to the top](#GNDecorator)<br>
+<p align="center">
+  <img src="pics/us.jpg"  />
+</p>
