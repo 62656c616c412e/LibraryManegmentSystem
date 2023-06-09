@@ -87,6 +87,3 @@ Belal A. Thabet 120203079 belalth4real@gmail.com
 
 Baraa M. Shaat  120200652 baraashaat144@gmail.com
 
-<p align="center">
-  <img src="pics/us.jpg"  />
-</p>
